@@ -441,4 +441,4 @@ if st.button("Prédire PD et Calculer ECL"):
         label="Télécharger les résultats",
         data=csv,
         file_name="resultats.csv",
-        mime="text/csv"
+        mime="text/csv")
